@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-using namespace std;
+using namespace std; 
 
 vector<int> findLIS(vector<int> nums) {
     int n = nums.size();
